@@ -10,7 +10,7 @@ material = "1.10.0"
 activity = "1.8.0"
 constraintlayout = "2.1.4"
 navigation = "2.7.7"
-ksp = "2.0.0-1.0.21"
+ksp = "1.9.10-1.0.13"
 hilt = "2.44"
 room = "2.6.1"
 
