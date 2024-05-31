@@ -22,6 +22,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:labelVisibilityMode="labeled"
+        style="@style/Widget.BottomNavigationView"
+        app:backgroundTint="@color/truncate"
+        app:itemPaddingBottom="4dp"
+        app:itemIconSize="28dp"
         app:menu="@menu/menu_bottom"/>
 
 </LinearLayout>

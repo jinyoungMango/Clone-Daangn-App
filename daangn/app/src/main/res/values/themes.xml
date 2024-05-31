@@ -6,4 +6,7 @@
     </style>
 
     <style name="Theme.Daangn" parent="Base.Theme.Daangn" />
+    <style name="Widget.BottomNavigationView" parent="Widget.Design.BottomNavigationView">
+        <item name="itemBackground">@drawable/bottom_nav_background</item>
+    </style>
 </resources>
